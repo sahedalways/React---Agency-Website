@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/React---Agency-Website/static/js/main.57ebdecb.js",
+    "static/media/heroImage.jpg": "/React---Agency-Website/static/media/heroImage.c3b18df4ca3c9d68126a.jpg",
+    "static/media/destination4.jpg": "/React---Agency-Website/static/media/destination4.d3a1aead847f6878ae1e.jpg",
+    "static/media/destination1.jpg": "/React---Agency-Website/static/media/destination1.6aae1a5fa6f1995687e0.jpg",
+    "static/media/scrollLogo.png": "/React---Agency-Website/static/media/scrollLogo.a968af0627489388fecc.png",
+    "static/media/destination5.jpg": "/React---Agency-Website/static/media/destination5.aa1e1f47c9ad1920dc86.jpg",
+    "static/media/logo.png": "/React---Agency-Website/static/media/logo.89f05844045a4547e184.png",
+    "static/media/testimonialAvatar.jpg": "/React---Agency-Website/static/media/testimonialAvatar.5f46f452cc52e8f46791.jpg",
+    "static/media/destination3.jpg": "/React---Agency-Website/static/media/destination3.24933c205178dba6af9a.jpg",
+    "static/media/destination2.jpg": "/React---Agency-Website/static/media/destination2.a1883f58f5d9bf5793bb.jpg",
+    "static/media/destination6.jpg": "/React---Agency-Website/static/media/destination6.293c10a852f2b8f026e7.jpg",
+    "index.html": "/React---Agency-Website/index.html",
+    "main.57ebdecb.js.map": "/React---Agency-Website/static/js/main.57ebdecb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.57ebdecb.js"
+  ]
+}
